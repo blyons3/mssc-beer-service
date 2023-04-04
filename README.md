@@ -3,7 +3,7 @@
 
 My course work for Spring Framework Guru SpringBoot/SpringCloud course.
 
-# Default Port Mappings - For Single Host
+Default Port Mappings - For Single Host
 | Service Name | Port | 
 | --------| -----|
 | Brewery Beer Service | 8080 |
