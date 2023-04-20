@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/springframeworkguru/mssc-beer-service.svg?style=svg)](https://circleci.com/gh/springframeworkguru/mssc-beer-service)
 # MSSC Beer Service
 
-My course work for Spring Framework Guru SpringBoot/SpringCloud course.
+My course work for the John Thompson Spring Framework Guru SpringBoot/SpringCloud course.
 
 Default Port Mappings - For Single Host
 | Service Name | Port | 
